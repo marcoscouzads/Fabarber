@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Marcos Cassiano AT</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="logo_da_barbearia_fabarber">Logo da barbearia fabarber</string>
+    <string name="deseja_conhecer">Deseja conhecer mais sobre nós?</string>
+    <string name="cortes">Cortes</string>
+    <string name="barbeiros">Barbeiros</string>
+    <string name="barbeiro_bruno">Barbeiro Bruno</string>
+    <string name="classifica_o">Classificação</string>
+    <string name="foto_do_barbeiro_bruno">Foto do Barbeiro Bruno</string>
+    <string name="foto_do_barbeiro_paulo">Foto do barbeiro Paulo</string>
+    <string name="barbeiro_paulo">Barbeiro Paulo</string>
+    <string name="corte_simples">Corte Simples</string>
+    <string name="corte_simples_texto">Corte Simples:</string>
+    <string name="_20_00">$: 20,00</string>
+    <string name="corte_infantil">corte infantil</string>
+    <string name="corte_infantil_texto">Corte Infantil:</string>
+    <string name="_30_00">$: 30,00</string>
+    <string name="lavagem">Lavagem</string>
+    <string name="lavagem_simples">Lavagem Simples:</string>
+    <string name="_10_00">$: 10,00</string>
+    <string name="corte_de_barba">Corte de barba</string>
+    <string name="barba_simples">Barba Simples:</string>
+    <string name="_15_00">$: 15,00</string>
+    <string name="hidrata_o">Hidratação</string>
+    <string name="hidrata_o_simples">Hidratação Simples:</string>
+</resources>
